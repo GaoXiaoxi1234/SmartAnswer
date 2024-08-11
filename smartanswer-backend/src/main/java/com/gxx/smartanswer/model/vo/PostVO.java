@@ -2,7 +2,6 @@ package com.gxx.smartanswer.model.vo;
 
 import cn.hutool.json.JSONUtil;
 import com.gxx.smartanswer.model.entity.Post;
-
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
@@ -12,7 +11,7 @@ import org.springframework.beans.BeanUtils;
 /**
  * 帖子视图
  *
- * @author <a href="https://github.com/GaoXiaoxi1234">小高同学</a>
+ * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
  * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @Data

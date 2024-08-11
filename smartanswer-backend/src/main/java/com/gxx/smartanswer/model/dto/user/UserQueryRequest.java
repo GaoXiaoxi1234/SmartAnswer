@@ -1,7 +1,6 @@
 package com.gxx.smartanswer.model.dto.user;
 
 import com.gxx.smartanswer.common.PageRequest;
-
 import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -9,7 +8,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 用户查询请求
  *
- * @author <a href="https://github.com/GaoXiaoxi1234">小高同学</a>
+ * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
  * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @EqualsAndHashCode(callSuper = true)

@@ -5,8 +5,8 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.gxx.smartanswer.exception.BusinessException;
 import com.gxx.smartanswer.common.ErrorCode;
+import com.gxx.smartanswer.exception.BusinessException;
 import com.gxx.smartanswer.mapper.PostFavourMapper;
 import com.gxx.smartanswer.model.entity.Post;
 import com.gxx.smartanswer.model.entity.PostFavour;
@@ -21,7 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 帖子收藏服务实现
  *
- * @author <a href="https://github.com/GaoXiaoxi1234">小高同学</a>
+ * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
  * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @Service

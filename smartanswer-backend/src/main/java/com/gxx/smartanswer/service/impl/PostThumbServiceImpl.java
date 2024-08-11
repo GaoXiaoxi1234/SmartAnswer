@@ -2,8 +2,8 @@ package com.gxx.smartanswer.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.gxx.smartanswer.exception.BusinessException;
 import com.gxx.smartanswer.common.ErrorCode;
+import com.gxx.smartanswer.exception.BusinessException;
 import com.gxx.smartanswer.mapper.PostThumbMapper;
 import com.gxx.smartanswer.model.entity.Post;
 import com.gxx.smartanswer.model.entity.PostThumb;
@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 帖子点赞服务实现
  *
- * @author <a href="https://github.com/GaoXiaoxi1234">小高同学</a>
+ * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
  * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @Service
