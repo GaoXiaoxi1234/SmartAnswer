@@ -1,4 +1,4 @@
-# SmartAnswer: AI答题应用平台
+# SmartAnswer: AI答题应用共享平台
 
 ## 项目简介
 
